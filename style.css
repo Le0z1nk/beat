@@ -3,3 +3,37 @@
     padding: 0;
     box-sizing: border-box;
 }
+body {
+    background-color: #e5e5e5;
+}
+header {  
+    background-color: #129799;
+}
+ul {
+    list-style: none;
+}
+.lista {
+    display: flex;
+    justify-content: space-evenly;
+    color: #f7f7f7;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+}
+.list {
+    margin-top: 1rem;  
+}
+h1 {
+    font-weight: 700;
+    color: #f7f7f7;
+    font-size: 2.5rem; 
+    margin-top: 9.5rem;
+    font-family: 'Roboto', sans-serif;
+}
+.batida {
+display: flex;
+justify-content: center;
+font-family: 'Roboto', sans-serif;
+}
+main {
+    background-color: #ffa185;
+}
