@@ -37,3 +37,38 @@ font-family: 'Roboto', sans-serif;
 main {
     background-color: #ffa185;
 }
+.aquarela {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    color: #f7f7f7;
+    font-size: 2rem;
+    padding-top: 3rem;
+    padding-left: 2rem;
+}
+.texto {
+    font-family: 'Roboto', sans-serif;
+    padding-left: 2rem;
+    padding-top: 1.5rem;
+    font-size: 20px;
+}
+.fotos1 {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 3rem;
+}
+.fotos2 {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 2rem;
+}
+.mais {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+}
+footer {
+    background-color: #129799;
+}
