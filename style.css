@@ -18,6 +18,7 @@ ul {
     color: #f7f7f7;
     align-items: center;
     font-family: 'Roboto', sans-serif;
+    font-size: 1.5rem;
 }
 .list {
     margin-top: 1rem;  
@@ -71,4 +72,27 @@ main {
 }
 footer {
     background-color: #129799;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.redes {
+    display: flex;
+}
+.redessociais {
+    width: 4vw;
+   margin-left: 2rem;
+   position: relative;
+   right: 8rem;
+}
+.menuFooter {
+width: 30vw;
+}
+.final {
+    display: flex;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    color: #f7f7f7;
+    font-size: 1.5rem;
+    justify-content: space-around;
 }
