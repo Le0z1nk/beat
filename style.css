@@ -57,10 +57,18 @@ main {
     justify-content: space-around;
     margin-top: 3rem;
 }
+.fotoss1 {
+    width: 45vw;
+    height: 45vh;
+}
 .fotos2 {
     display: flex;
     justify-content: space-around;
     padding-top: 2rem;
+}
+.fotoss2 {
+    width: 45vw;
+    height: 45vh;
 }
 .mais {
     font-family: 'Roboto', sans-serif;
